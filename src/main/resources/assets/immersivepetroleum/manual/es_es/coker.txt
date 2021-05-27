@@ -1,0 +1,13 @@
+Coker
+Material muy pegajoso
+<&cokerunit0>El Coker es una estructura multibloque §omuy grande§r que transforma el betún en coque de petróleo (Bloque de coque) y Diesel como subproducto. Lo hace calentando el betún hasta su temperatura de craqueo térmico. De este modo, las moléculas de hidrocarburos pesados y de cadena larga se convierten en coque de petróleo y Diesel.
+
+Se construye como se muestra y se forma usando el Martillo del Ingeniero en el Bloque de Hormigón en el Centro, en el lado con el Bloque de Ingeniería de Redstone.<np>
+La aplicación de una señal de Redstone al panel de control detendrá el proceso de la máquina, este comportamiento puede invertirse mediante el uso del Destornillador.
+
+La entrada de agua se realiza por la parte trasera, el puerto está marcado con un punto azul y el betún se puede introducir por la escotilla del centro.
+El coque de petróleo se deja caer por debajo de los conductos de la cámara.<np>
+El Coker usa <config;i;coker_operationcost> Flux/t y 125mB Agua por cámara durante la conversión de Betún en Coque de petróleo.
+
+No es necesario llenar completamente una cámara para que la coquización inicie el proceso, y se puede añadir más durante la primera fase.
+Si una cámara se llena por completo, intentará llenar la cámara secundaria en su lugar.
