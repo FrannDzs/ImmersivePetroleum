@@ -1,0 +1,13 @@
+Unidad de recuperación de azufre
+Olor a fuegos artificiales
+<&hydrotreater0>Unidad de recuperación de azufre (URA) es una máquina multibloque que separa el azufre del Diesel sulfurizado utilizando el hidrógeno y el oxígeno obtenidos de la electrólisis del agua.
+
+Este usa <config;i;hydrotreater_operationcost> Flux por operación<np>
+Se construye como se muestra y se forma utilizando el Martillo del Ingeniero en el centro del Bloque de Ingeniería Pesada
+
+La aplicación de una señal de Redstone al panel de control detendrá el proceso de la máquina, este comportamiento puede invertirse mediante el uso del Destornillador.<np>
+
+El Diesel sulfurizado se bombea en el puerto de la parte delantera.
+El Agua se bombea en el puerto de la parte superior.
+El Azufre se vierte por el lado izquierdo.
+El Diesel se bombea por el lado izquierdo del puerto superior.
