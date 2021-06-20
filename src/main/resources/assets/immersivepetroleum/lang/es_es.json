@@ -118,12 +118,12 @@
 	
 	"_comment": "################## IE-Manual ##################",
 	
-	"manual.immersivepetroleum.main": "Procesado de petróleo",
+	"manual.immersivepetroleum.main": "§lProcesado de petróleo§r",
 	
 	"ie.manual.entry.blank_text": "",
 	
-	"ie.manual.entry.reservoirs.title": "Depósito de fluídos",
-	"ie.manual.entry.reservoirs.subtitle": "Oro negro",
+	"ie.manual.entry.reservoirs.title": "§lDepósito de fluídos§r",
+	"ie.manual.entry.reservoirs.subtitle": "§oOro negro§r",
 	
 	"ie.manual.entry.reservoirs.oil0": "Al minar cerca del lecho rocoso, ocasionalmente notarás una sustancia negra e inflamable: el petróleo. El petróleo es sólo uno de los muchos fluidos que pueden encontrarse bajo la impenetrable roca, pero no podrás abrir una brecha en estas reservas por tu cuenta.\n\nCon la ayuda de una §1<link;immersivepetroleum:pumpjack;máquina especialmente diseñada>§r podrás tener en tus manos el contenido de estos depósitos.<np>",
 	"ie.manual.entry.reservoirs.oil1": "La §1<link;minerals;muestra del núcleo>§r determinará si se puede encontrar un depósito de fluídos en un chunk específico y da una idea del tamaño del mismo.\n\nA pesar del volumen finito de fluido en cada chunk, ciertos tipos de depósitos pueden tener trazas de fluido que todavía pueden ser cosechadas después de que el chunk se agote. Utilizar más de una bomba de varilla en un chunk agotado no proporciona ningún beneficio.<np>",
