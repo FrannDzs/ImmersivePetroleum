@@ -1,3 +1,3 @@
-Hormigón de asfalto
-Material para carreteras
-<&asphalt0>Hormigón de asfalto, unidos por el pegajoso betún, es una alternativa de color más oscuro al Hormigón normal. Puede producirse utilizando los subproductos del procesamiento del petróleo crudo en la <link;immersivepetroleum:distillationtower;§n§oTorre de §n§oDestilación§r>.
+§lHormigón de asfalto§r
+§oMaterial para carreteras§r
+<&asphalt0>El §lhormigón de asfalto§r, unido por el pegajoso betún, es una alternativa de color más oscuro al §lhormigón§r normal. Puede producirse utilizando los subproductos del procesamiento del §lpetróleo crudo§r en la §1<link;immersivepetroleum:distillationtower;torre de destilación>§r.
