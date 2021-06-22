@@ -1,13 +1,13 @@
-Unidad de recuperación de azufre
-Olor a fuegos artificiales
-<&hydrotreater0>Unidad de recuperación de azufre (URA) es una máquina multibloque que separa el azufre del Diesel sulfurizado utilizando el hidrógeno y el oxígeno obtenidos de la electrólisis del agua.
+§lUnidad de hidrodesulfuración§r
+§oOlor a fuegos artificiales§r
+<&hydrotreater0>La §lunidad de hidrodesulfuración§r (UHD) es una máquina multibloque que separa el §lazufre§r del §ldiésel sulfurizado§r utilizando el hidrógeno y el oxígeno obtenidos de la electrólisis del agua.
 
-Este usa <config;i;hydrotreater_operationcost> Flux por operación<np>
-Se construye como se muestra y se forma utilizando el Martillo del Ingeniero en el centro del Bloque de Ingeniería Pesada
+La §lunidad de hidrodesulfuración§r utiliza <config;i;hydrotreater_operationcost> Flux por operación<np>
+Se construye como se muestra en la primera página y se forma utilizando el §lMartillo del Ingeniero§r en el centro, en el §lbloque de ingeniería pesada§r
 
-La aplicación de una señal de Redstone al panel de control detendrá el proceso de la máquina, este comportamiento puede invertirse mediante el uso del Destornillador.<np>
+La aplicación de una señal de redstone al panel de control detendrá el proceso de la máquina, este comportamiento puede invertirse mediante el uso del §lDestornillador del Ingeniero§r.<np>
 
-El Diesel sulfurizado se bombea en el puerto de la parte delantera.
-El Agua se bombea en el puerto de la parte superior.
-El Azufre se vierte por el lado izquierdo.
-El Diesel se bombea por el lado izquierdo del puerto superior.
+El §ldiésel sulfurizado§r se bombea en el puerto de la parte delantera.
+El §lagua§r se bombea por el puerto de la parte superior.
+El §lazufre§r se vierte por el lado izquierdo.
+El §ldiésel§r se bombea por el puerto superior del lado izquierdo.

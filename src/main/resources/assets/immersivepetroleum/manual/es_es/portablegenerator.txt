@@ -1,6 +1,6 @@
-Generador portátil
-Con gas
-<&portablegenerator0>El generador portátil es una solución de energía móvil todo en uno. Este <link;immersivepetroleum:distillationtower;§n§oGasolina§r>-motor-generador a combustible produce hasta <config;i;portablegenerator_flux> Flux/t mientras está en marcha, y tiene un buffer de energía interno de 100,000 RF.<np>
-El generador portátil puede aceptar combustible simplemente haciendo clic con un balde. También se puede introducir gasolina u otro combustible desde arriba. La energía se emite directamente a través de cables de Baja tensión o Media Tensión, no se necesitan conectores. La aplicación de una señal de Redstone detendrá la generación.
+§lGenerador portátil§r
+§oCon gasolina§r
+<&portablegenerator0>El §lgenerador portátil§r es una solución de energía móvil todo en uno. Este motor-generador a §1<link;immersivepetroleum:distillationtower;gasolina> produce hasta <config;i;portablegenerator_flux> Flux/t mientras está en marcha, y tiene un buffer de energía interno de 100,000 RF.<np>
+El §lgenerador portátil§r puede aceptar combustible simplemente haciéndole clic con un §lcubo§r. También se puede introducir §lgasolina§r u otro combustible desde arriba. La energía se emite directamente a través de §lcables de baja tensión o media tensión§r, no se necesitan §lconectores§r. La aplicación de una señal de redstone detendrá la generación de energía.
 
-Si te agachas y haces clic con el botón derecho en el generador, lo recogerás, conservando toda la energía y el combustible almacenados.
+Si te agachas y haces clic con derecho en el §lgenerador§r, lo recogerás, conservando toda la energía y el combustible almacenados.

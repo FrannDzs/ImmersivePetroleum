@@ -1,3 +1,3 @@
-Napalm
-Cuidado con el Dios del Río
-El napalm es una sustancia extremadamente inflamable que puede crearse en la <link;mixer;§n§oMezcladora§r> usando <link;immersivepetroleum:distillationtower;§n§oGasolina§r> y tres medidas de polvillo de aluminio. Tiene poca utilidad que no sea la destrucción gratuita; Cuando se enciende el Napalm, el fuego se extiende casi inmediatamente por su superficie, lo que permite una rápida deforestación. Además, puede servir como combustible muy eficaz para el <link;chemthrower;§n§oLanzador Químico§r>.
+§lNapalm§r
+§oCuidado con el Dios del Río§r
+El §lnapalm§r es una sustancia extremadamente inflamable que puede crearse en la §1<link;mixer;mezcladora industrial>§r usando §1<link;immersivepetroleum:distillationtower;gasolina>§r y tres medidas de §lpolvo de aluminio§r. Tiene poca utilidad que no sea la destrucción gratuita; cuando se enciende el §lnapalm§r, el fuego se extiende casi inmediatamente por su superficie, lo que permite una rápida deforestación. Además, puede servir como combustible muy eficaz para el §1<link;chemthrower;lanzador químico>§r.
